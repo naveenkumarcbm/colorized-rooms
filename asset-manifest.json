@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/colorized-rooms/static/css/main.d3548006.chunk.css",
+    "main.js": "/colorized-rooms/static/js/main.514099fb.chunk.js",
+    "main.js.map": "/colorized-rooms/static/js/main.514099fb.chunk.js.map",
+    "runtime-main.js": "/colorized-rooms/static/js/runtime-main.4317215d.js",
+    "runtime-main.js.map": "/colorized-rooms/static/js/runtime-main.4317215d.js.map",
+    "static/js/2.4b8ee880.chunk.js": "/colorized-rooms/static/js/2.4b8ee880.chunk.js",
+    "static/js/2.4b8ee880.chunk.js.map": "/colorized-rooms/static/js/2.4b8ee880.chunk.js.map",
+    "static/js/3.2c4b8b37.chunk.js": "/colorized-rooms/static/js/3.2c4b8b37.chunk.js",
+    "static/js/3.2c4b8b37.chunk.js.map": "/colorized-rooms/static/js/3.2c4b8b37.chunk.js.map",
+    "index.html": "/colorized-rooms/index.html",
+    "static/css/main.d3548006.chunk.css.map": "/colorized-rooms/static/css/main.d3548006.chunk.css.map",
+    "static/js/2.4b8ee880.chunk.js.LICENSE.txt": "/colorized-rooms/static/js/2.4b8ee880.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4317215d.js",
+    "static/js/2.4b8ee880.chunk.js",
+    "static/css/main.d3548006.chunk.css",
+    "static/js/main.514099fb.chunk.js"
+  ]
+}
